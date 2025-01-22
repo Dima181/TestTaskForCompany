@@ -4,7 +4,6 @@ using UniRx;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using Zenject;
-using UnityEditor.SearchService;
 
 namespace Infrastructure.Scenes
 {
