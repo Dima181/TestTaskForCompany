@@ -20,9 +20,4 @@ namespace Gameplay.Model
         IEnumerator IEnumerable.GetEnumerator() =>
             _objects.Values.GetEnumerator();
     }
-
-    public class PlayerCollection
-    {
-
-    }
 }
